@@ -15,9 +15,6 @@ namespace StudiesCSharp
     /*
       static void Main(string[] args)
       {
-        var nome = RetornaNome("Yuri", "Mendes");
-        Console.WriteLine(nome);
-
         Product mouse = new Product();
         mouse.Id = 21;
         mouse.Title = "Mouse Gamer";
@@ -30,11 +27,6 @@ namespace StudiesCSharp
         Console.WriteLine(mouse.Price);
         Console.WriteLine(mouse.Type);
         Console.WriteLine((int)mouse.Type);
-      }
-
-      static string RetornaNome(string nome, string sobrenome, int idade = 21)
-      {
-        return nome + " " + sobrenome + idade.ToString();
       }
     */
     #endregion
