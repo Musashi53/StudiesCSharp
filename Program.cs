@@ -6,16 +6,7 @@ namespace StudiesCSharp
   {
     public static void Main(string[] args)
     {
-      StringsExamples.ReturnStringsExamples();
+      DatesExamples.ReturnDatesExamples();
     }    
-    #region ENUMS
-      /*
-        enum EProductType
-        {
-          Product = 1,
-          Service = 2
-        }
-      */
-    #endregion
   }
 }
