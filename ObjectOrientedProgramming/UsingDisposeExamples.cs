@@ -9,7 +9,7 @@ namespace StudiesCSharp.ObjectOrientedProgramming.UsingDisposeExamples
 
             using(var payment2 = new Payment())
             {
-                Console.WriteLine("Finallizing payment...");
+                Console.WriteLine("Processing payment...");
             }
 
         }
